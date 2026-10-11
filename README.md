@@ -17,8 +17,3 @@ I am a data enthusiast with a strong background in Finance and Marketing, passio
 
 <br/>
 
-<!-- Thêm bảng thống kê GitHub trực quan -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" height="150"/>
-</p>
